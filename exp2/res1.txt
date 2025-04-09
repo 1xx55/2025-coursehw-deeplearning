@@ -1,0 +1,3196 @@
+[['https://movie.douban.com/subject/36954004/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/36954004/photos?type=R" title="点击看更多海报">
+<img alt="向阳·花" rel="v:image" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2918982408.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27481219/" rel="v:directedBy">冯小刚</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/27481219/">冯小刚</a> / <a href="https://www.douban.com/personage/36969764/">虫安</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27503300/" rel="v:starring">赵丽颖</a> / <a href="https://www.douban.com/personage/34450834/" rel="v:starring">兰西雅</a> / <a href="https://www.douban.com/personage/27483682/" rel="v:starring">啜妮</a> / <a href="https://www.douban.com/personage/30241021/" rel="v:starring">王菊</a> / <a href="https://www.douban.com/personage/27605393/" rel="v:starring">程潇</a> / <a href="https://www.douban.com/personage/34784938/" rel="v:starring">王啸宇</a> / <a href="https://www.douban.com/personage/27547744/" rel="v:starring">钱漪</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">剧情</span> / <span property="v:genre">犯罪</span><br/>
+<span class="pl">制片国家/地区:</span> 中国大陆<br/>
+<span class="pl">语言:</span> 汉语普通话 / 中国手语 / 湖南方言<br/>
+<span class="pl">上映日期:</span> <span content="2025-04-04(中国大陆)" property="v:initialReleaseDate">2025-04-04(中国大陆)</span><br/>
+<span class="pl">片长:</span> <span content="124" property="v:runtime">124分钟</span><br/>
+<span class="pl">又名:</span> 出狱女子的故事 / We Girls<br/>
+<span class="pl">IMDb:</span> tt33014921<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">6.6</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar35"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">69647</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:33px"></div>
+<span class="rating_per">18.6%</span>
+<br>
+</br></div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:39px"></div>
+<span class="rating_per">22.3%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">35.7%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:30px"></div>
+<span class="rating_per">16.9%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:11px"></div>
+<span class="rating_per">6.6%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=剧情&amp;type=11&amp;interval_id=75:65&amp;action=">70% 剧情片</a><br/>
+            好于 <a href="/typerank?type_name=犯罪&amp;type=3&amp;interval_id=80:70&amp;action=">76% 犯罪片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/36215199/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/36215199/photos?type=R" title="点击看更多海报">
+<img alt="东四十条" rel="v:image" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2919785608.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/36566181/" rel="v:directedBy">覃牧秋</a> / <a href="https://www.douban.com/personage/36566087/" rel="v:directedBy">詹涵淇</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/36566181/">覃牧秋</a> / <a href="https://www.douban.com/personage/36566087/">詹涵淇</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/36566180/" rel="v:starring">钱赓</a> / <a href="https://www.douban.com/personage/36566179/" rel="v:starring">杨凯航</a> / <a href="https://www.douban.com/personage/36740755/" rel="v:starring">林熙</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">剧情</span> / <span property="v:genre">喜剧</span><br/>
+<span class="pl">制片国家/地区:</span> 中国大陆<br/>
+<span class="pl">语言:</span> 汉语普通话<br/>
+<span class="pl">上映日期:</span> <span content="2025-04-08(中国大陆)" property="v:initialReleaseDate">2025-04-08(中国大陆)</span> / <span content="2023-10-13(平遥国际电影展)" property="v:initialReleaseDate">2023-10-13(平遥国际电影展)</span><br/>
+<span class="pl">片长:</span> <span content="93" property="v:runtime">93分钟</span> / 90分钟(影展版)<br/>
+<span class="pl">又名:</span> Dance Still<br/>
+<span class="pl">IMDb:</span> tt29256514<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average"></strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right not_showed">
+<div class="ll bigstar bigstar00"></div>
+<div class="rating_sum">
+                暂无评分
+        </div>
+</div>
+</div>
+<div class="ratings-on-weight">
+</div>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/35907663/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/35907663/photos?type=R" title="点击看更多海报">
+<img alt="不说话的爱" rel="v:image" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2919278762.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27548712/" rel="v:directedBy">沙漠</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/34836335/">付丹迪</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27502847/" rel="v:starring">张艺兴</a> / <a href="https://www.douban.com/personage/36607322/" rel="v:starring">李珞桉</a> / <a href="https://www.douban.com/personage/27579889/" rel="v:starring">黄尧</a> / <a href="https://www.douban.com/personage/30481550/" rel="v:starring">安沺</a> / <a href="https://www.douban.com/personage/30271857/" rel="v:starring">章若楠</a> / <a href="https://www.douban.com/personage/27495304/" rel="v:starring">袁文康</a> / <a href="https://www.douban.com/personage/27505172/" rel="v:starring">艾丽娅</a> / <a href="https://www.douban.com/personage/37269511/" rel="v:starring">王先贺</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">剧情</span><br/>
+<span class="pl">制片国家/地区:</span> 中国大陆<br/>
+<span class="pl">语言:</span> 汉语普通话 / 中国手语<br/>
+<span class="pl">上映日期:</span> <span content="2025-04-03(中国大陆)" property="v:initialReleaseDate">2025-04-03(中国大陆)</span><br/>
+<span class="pl">片长:</span> <span content="111" property="v:runtime">111分钟</span><br/>
+<span class="pl">又名:</span> Mumu<br/>
+<span class="pl">IMDb:</span> tt35635579<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">7.0</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar35"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">32662</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:38px"></div>
+<span class="rating_per">21.3%</span>
+<br>
+</br></div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:49px"></div>
+<span class="rating_per">27.1%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">35.0%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:25px"></div>
+<span class="rating_per">13.7%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:5px"></div>
+<span class="rating_per">3.0%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=剧情&amp;type=11&amp;interval_id=75:65&amp;action=">73% 剧情片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/26149750/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/26149750/photos?type=R" title="点击看更多海报">
+<img alt="A Minecraft Movie" rel="v:image" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2919803217.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27305617/" rel="v:directedBy">杰瑞德·赫斯</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/27507374/">克里斯·鲍曼</a> / <a href="https://www.douban.com/personage/27534563/">哈贝尔·帕尔默</a> / <a href="https://www.douban.com/personage/35088300/">尼尔·韦德纳</a> / <a href="https://www.douban.com/personage/35088301/">加文·詹姆斯</a> / <a href="https://www.douban.com/personage/27568960/">克里斯·加莱塔</a> / <a href="https://www.douban.com/personage/27579159/">艾莉森·施罗德</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27228341/" rel="v:starring">杰森·莫玛</a> / <a href="https://www.douban.com/personage/27255255/" rel="v:starring">杰克·布莱克</a> / <a href="https://www.douban.com/personage/34964240/" rel="v:starring">塞巴斯蒂安·尤金·汉森</a> / <a href="https://www.douban.com/personage/35419116/" rel="v:starring">艾玛·迈尔斯</a> / <a href="https://www.douban.com/personage/27497726/" rel="v:starring">丹妮尔·布鲁克斯</a> / <a href="https://www.douban.com/personage/27255274/" rel="v:starring">詹妮佛·库里奇</a> / <a href="https://www.douban.com/personage/27580928/" rel="v:starring">瑞切尔·豪斯</a> / <a href="https://www.douban.com/personage/36315641/" rel="v:starring">阿兰·亨利</a> / <a href="https://www.douban.com/personage/37304178/" rel="v:starring">布拉姆·斯科特-布莱尼</a> / <a href="https://www.douban.com/personage/37304179/" rel="v:starring">莫阿纳·威廉斯</a> / <a href="https://www.douban.com/personage/27219512/" rel="v:starring">杰梅奈·克莱门特</a> / <a href="https://www.douban.com/personage/27491900/" rel="v:starring">马克·赖特</a> / <a href="https://www.douban.com/personage/36507961/" rel="v:starring">伊薇特·帕森斯</a> / <a href="https://www.douban.com/personage/37304180/" rel="v:starring">海勒姆·加西亚</a> / <a href="https://www.douban.com/personage/27215074/" rel="v:starring">布雷特·麦肯齐</a> / <a href="https://www.douban.com/personage/27305617/" rel="v:starring">杰瑞德·赫斯</a> / <a href="https://www.douban.com/personage/37304182/" rel="v:starring">阿曼达·比林</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">喜剧</span> / <span property="v:genre">动作</span> / <span property="v:genre">家庭</span> / <span property="v:genre">奇幻</span> / <span property="v:genre">冒险</span><br/>
+<span class="pl">制片国家/地区:</span> 美国 / 瑞典<br/>
+<span class="pl">语言:</span> 英语<br/>
+<span class="pl">上映日期:</span> <span content="2025-04-04(美国/中国大陆)" property="v:initialReleaseDate">2025-04-04(美国/中国大陆)</span><br/>
+<span class="pl">片长:</span> <span content="101" property="v:runtime">101分钟</span><br/>
+<span class="pl">又名:</span> 我的世界 / MINECRAFT：我的世界大电影(港) / MINECRAFT麦块电影(台) / Minecraft / 当个创世神<br/>
+<span class="pl">IMDb:</span> tt3566834<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">5.7</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar30"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">20276</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:12px"></div>
+<span class="rating_per">7.9%</span>
+<br>
+</br></div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:26px"></div>
+<span class="rating_per">16.3%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">40.0%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:42px"></div>
+<span class="rating_per">26.6%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:14px"></div>
+<span class="rating_per">9.2%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=喜剧&amp;type=24&amp;interval_id=55:45&amp;action=">51% 喜剧片</a><br/>
+            好于 <a href="/typerank?type_name=动作&amp;type=5&amp;interval_id=55:45&amp;action=">51% 动作片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/26938697/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/26938697/photos?type=R" title="点击看更多海报">
+<img alt="猎狐·行动" rel="v:image" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2919832188.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27551598/" rel="v:directedBy">张立嘉</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/27551598/">张立嘉</a> / <a href="https://www.douban.com/personage/27570169/">夏侯云姗</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27480240/" rel="v:starring">段奕宏</a> / <a href="https://www.douban.com/personage/27321759/" rel="v:starring">梁朝伟</a> / <a href="https://www.douban.com/personage/27570169/" rel="v:starring">夏侯云姗</a> / <a href="https://www.douban.com/personage/27575389/" rel="v:starring">张傲月</a> / <a href="https://www.douban.com/personage/27241402/" rel="v:starring">欧嘉·柯瑞兰寇</a> / <a href="https://www.douban.com/personage/27495027/" rel="v:starring">奥利维尔·雷堡汀</a> / <a href="https://www.douban.com/personage/27238364/" rel="v:starring">何塞·加西亚</a> / <a href="https://www.douban.com/personage/34958708/" rel="v:starring">成晓星</a> / <a href="https://www.douban.com/personage/27481046/" rel="v:starring">张志坚</a> / <a href="https://www.douban.com/personage/27207404/" rel="v:starring">奚美娟</a> / <a href="https://www.douban.com/personage/27483007/" rel="v:starring">白志迪</a> / <a href="https://www.douban.com/personage/27540551/" rel="v:starring">巫刚</a> / <a href="https://www.douban.com/personage/27556226/" rel="v:starring">任正斌</a> / <a href="https://www.douban.com/personage/30384094/" rel="v:starring">富扬恩</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">剧情</span> / <span property="v:genre">动作</span> / <span property="v:genre">犯罪</span><br/>
+<span class="pl">制片国家/地区:</span> 中国大陆<br/>
+<span class="pl">语言:</span> 汉语普通话 / 英语 / 法语<br/>
+<span class="pl">上映日期:</span> <span content="2025-04-04(中国大陆)" property="v:initialReleaseDate">2025-04-04(中国大陆)</span><br/>
+<span class="pl">片长:</span> <span content="105" property="v:runtime">105分钟</span><br/>
+<span class="pl">又名:</span> 猎狐行动 / 围猎 / Fox Hunt / The Hunting<br/>
+<span class="pl">IMDb:</span> tt10712788<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">4.7</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar25"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">5592</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:5px"></div>
+<span class="rating_per">3.0%</span>
+<br>
+</br></div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:17px"></div>
+<span class="rating_per">8.9%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:61px"></div>
+<span class="rating_per">32.0%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">33.1%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:44px"></div>
+<span class="rating_per">22.9%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=剧情&amp;type=11&amp;interval_id=10:0&amp;action=">2% 剧情片</a><br/>
+            好于 <a href="/typerank?type_name=动作&amp;type=5&amp;interval_id=20:10&amp;action=">18% 动作片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/35411283/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/35411283/photos?type=R" title="点击看更多海报">
+<img alt="阳光照耀青春里" rel="v:image" src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2919786311.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27550845/" rel="v:directedBy">曾海若</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/27550845/">曾海若</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27480255/" rel="v:starring">肖央</a> / <a href="https://www.douban.com/personage/27549569/" rel="v:starring">春夏</a> / <a href="https://www.douban.com/personage/27559526/" rel="v:starring">陈明昊</a> / <a href="https://www.douban.com/personage/35477349/" rel="v:starring">蒋奇明</a> / <a href="https://www.douban.com/personage/27547775/" rel="v:starring">王迅</a> / <a href="https://www.douban.com/personage/30464902/" rel="v:starring">王子川</a> / <a href="https://www.douban.com/personage/30378003/" rel="v:starring">赵梓冲</a> / <a href="https://www.douban.com/personage/27485657/" rel="v:starring">杨轶</a> / <a href="https://www.douban.com/personage/34973270/" rel="v:starring">李路琦</a> / <a href="https://www.douban.com/personage/33393332/" rel="v:starring">国义骞</a> / <a href="https://www.douban.com/personage/35477351/" rel="v:starring">郑磊</a> / <a href="https://www.douban.com/personage/30430168/" rel="v:starring">赵成哲</a> / <a href="https://www.douban.com/personage/27504282/" rel="v:starring">赵子琪</a> / <a href="https://www.douban.com/personage/27541060/" rel="v:starring">石凉</a> / <a href="https://www.douban.com/personage/27502221/" rel="v:starring">于明加</a> / <a href="https://www.douban.com/personage/27579889/" rel="v:starring">黄尧</a> / <a href="https://www.douban.com/personage/27562499/" rel="v:starring">任洛敏</a> / <a href="https://www.douban.com/personage/27560680/" rel="v:starring">陈玺旭</a> / <a href="https://www.douban.com/personage/30415968/" rel="v:starring">王圣迪</a> / <a href="https://www.douban.com/personage/27247159/" rel="v:starring">黄晓明</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">剧情</span><br/>
+<span class="pl">制片国家/地区:</span> 中国大陆 / 中国香港<br/>
+<span class="pl">语言:</span> 汉语普通话<br/>
+<span class="pl">上映日期:</span> <span content="2025-04-04(中国大陆)" property="v:initialReleaseDate">2025-04-04(中国大陆)</span><br/>
+<span class="pl">片长:</span> <span content="129" property="v:runtime">129分钟</span><br/>
+<span class="pl">又名:</span> 逃出青春里 / 以梦为马 / The Way Out<br/>
+<span class="pl">IMDb:</span> tt36118986<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">6.8</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar35"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">8357</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:24px"></div>
+<span class="rating_per">14.3%</span>
+<br>
+</br></div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:55px"></div>
+<span class="rating_per">31.6%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">36.7%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:24px"></div>
+<span class="rating_per">13.9%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:6px"></div>
+<span class="rating_per">3.6%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=剧情&amp;type=11&amp;interval_id=55:45&amp;action=">54% 剧情片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/37143373/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/37143373/photos?type=R" title="点击看更多海报">
+<img alt="機動戦士Gundam GQuuuuuuX -Beginning-" rel="v:image" src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2919535626.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27211315/" rel="v:directedBy">鹤卷和哉</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/27235120/">榎户洋司</a> / <a href="https://www.douban.com/personage/27265485/">庵野秀明</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27550612/" rel="v:starring">黑泽朋世</a> / <a href="https://www.douban.com/personage/27494517/" rel="v:starring">石川由依</a> / <a href="https://www.douban.com/personage/27503435/" rel="v:starring">土屋神叶</a> / <a href="https://www.douban.com/personage/27254402/" rel="v:starring">名冢佳织</a> / <a href="https://www.douban.com/personage/30301951/" rel="v:starring">新祐树</a> / <a href="https://www.douban.com/personage/27234553/" rel="v:starring">杉田智和</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">科幻</span> / <span property="v:genre">动画</span> / <span property="v:genre">冒险</span><br/>
+<span class="pl">官方网站:</span> <a href="https://www.gundam.info/feature/gquuuuuux/" rel="nofollow" target="_blank">https://www.gundam.info/feature/gquuuuuux/</a><br/>
+<span class="pl">制片国家/地区:</span> 日本<br/>
+<span class="pl">语言:</span> 日语<br/>
+<span class="pl">上映日期:</span> <span content="2025-04-04(中国大陆)" property="v:initialReleaseDate">2025-04-04(中国大陆)</span> / <span content="2025-01-17(日本)" property="v:initialReleaseDate">2025-01-17(日本)</span><br/>
+<span class="pl">片长:</span> <span content="82" property="v:runtime">82分钟</span><br/>
+<span class="pl">又名:</span> 机动战士高达GQuuuuuuX序章 / 機動戦士ガンダム ジークアクス -Beginning-‎ / Mobile Suit Gundam GQuuuuuuX -Beginning-<br/>
+<span class="pl">IMDb:</span> tt34881132<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">6.8</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar35"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">7294</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:17px"></div>
+<span class="rating_per">11.6%</span>
+<br>
+</br></div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:51px"></div>
+<span class="rating_per">33.3%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">41.8%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:14px"></div>
+<span class="rating_per">9.6%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:5px"></div>
+<span class="rating_per">3.6%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=科幻&amp;type=17&amp;interval_id=70:60&amp;action=">65% 科幻片</a><br/>
+            好于 <a href="/typerank?type_name=动画&amp;type=25&amp;interval_id=55:45&amp;action=">53% 动画片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/36445098/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/36445098/photos?type=R" title="点击看更多海报">
+<img alt="C'è ancora domani" rel="v:image" src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2918279456.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27243353/" rel="v:directedBy">宝拉·柯特莱西</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/27243353/">宝拉·柯特莱西</a> / <a href="https://www.douban.com/personage/27531205/">吉利亚·卡伦达</a> / <a href="https://www.douban.com/personage/27585711/">法里奥·安德烈奥蒂</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27243353/" rel="v:starring">宝拉·柯特莱西</a> / <a href="https://www.douban.com/personage/27210992/" rel="v:starring">瓦莱里奥·马斯坦德雷亚</a> / <a href="https://www.douban.com/personage/36760891/" rel="v:starring">罗马纳·马乔拉·韦尔加诺</a> / <a href="https://www.douban.com/personage/36741718/" rel="v:starring">埃马努艾拉·法内利</a> / <a href="https://www.douban.com/personage/27509284/" rel="v:starring">乔治·科兰杰利</a> / <a href="https://www.douban.com/personage/27487480/" rel="v:starring">维尼乔·马尔基奥尼</a> / <a href="https://www.douban.com/personage/36760895/" rel="v:starring">弗朗切斯科·琴托拉梅</a> / <a href="https://www.douban.com/personage/36760890/" rel="v:starring">雷法莱·维诺利</a> / <a href="https://www.douban.com/personage/36631489/" rel="v:starring">保拉·蒂齐亚娜·科努西亚</a> / <a href="https://www.douban.com/personage/36732935/" rel="v:starring">尤夫·约瑟夫</a> / <a href="https://www.douban.com/personage/27224363/" rel="v:starring">阿蕾西娅·贝儿拉</a> / <a href="https://www.douban.com/personage/36760892/" rel="v:starring">费德里科·托奇</a> / <a href="https://www.douban.com/personage/36760893/" rel="v:starring">普里西拉·米科尔·马里诺</a> / <a href="https://www.douban.com/personage/36760894/" rel="v:starring">玛丽亚·基娅拉·奥尔蒂</a> / <a href="https://www.douban.com/personage/36619723/" rel="v:starring">西尔维亚·萨尔瓦托雷</a> / <a href="https://www.douban.com/personage/36760896/" rel="v:starring">马提亚·巴尔多</a> / <a href="https://www.douban.com/personage/36760897/" rel="v:starring">詹马尔科·菲利皮尼</a> / <a href="https://www.douban.com/personage/36768473/" rel="v:starring">芭芭拉·基耶萨</a> / <a href="https://www.douban.com/personage/37260074/" rel="v:starring">加布里埃拉·保罗卡</a> / <a href="https://www.douban.com/personage/27295429/" rel="v:starring">阿尔曼多·德·拉扎</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">剧情</span> / <span property="v:genre">喜剧</span> / <span property="v:genre">历史</span><br/>
+<span class="pl">制片国家/地区:</span> 意大利<br/>
+<span class="pl">语言:</span> 意大利语 / 英语<br/>
+<span class="pl">上映日期:</span> <span content="2025-03-08(中国大陆)" property="v:initialReleaseDate">2025-03-08(中国大陆)</span> / <span content="2023-10-26(意大利)" property="v:initialReleaseDate">2023-10-26(意大利)</span><br/>
+<span class="pl">片长:</span> <span content="118" property="v:runtime">118分钟</span><br/>
+<span class="pl">又名:</span> 明天还有梦(港) / 我们还有明天(台) / There’s Still Tomorrow<br/>
+<span class="pl">IMDb:</span> tt21800162<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">9.4</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar45"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">257487</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">75.0%</span>
+<br>
+</br></div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:17px"></div>
+<span class="rating_per">20.2%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:3px"></div>
+<span class="rating_per">3.9%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:0px"></div>
+<span class="rating_per">0.5%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:0px"></div>
+<span class="rating_per">0.4%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=剧情&amp;type=11&amp;interval_id=100:90&amp;action=">99% 剧情片</a><br/>
+            好于 <a href="/typerank?type_name=喜剧&amp;type=24&amp;interval_id=100:90&amp;action=">99% 喜剧片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/33415953/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/33415953/photos?type=R" title="点击看更多海报">
+<img alt="A Working Man" rel="v:image" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2919596073.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27502403/" rel="v:directedBy">大卫·阿耶</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/27253758/">西尔维斯特·史泰龙</a> / <a href="https://www.douban.com/personage/27502403/">大卫·阿耶</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27255247/" rel="v:starring">杰森·斯坦森</a> / <a href="https://www.douban.com/personage/27431621/" rel="v:starring">大卫·哈伯</a> / <a href="https://www.douban.com/personage/27337482/" rel="v:starring">迈克尔·佩纳</a> / <a href="https://www.douban.com/personage/27232914/" rel="v:starring">杰森·弗莱明</a> / <a href="https://www.douban.com/personage/27247436/" rel="v:starring">梅拉布·尼尼泽</a> / <a href="https://www.douban.com/personage/36846782/" rel="v:starring">阿里安娜·里瓦斯</a> / <a href="https://www.douban.com/personage/33451717/" rel="v:starring">马克西米利安·奥辛斯基</a> / <a href="https://www.douban.com/personage/27555994/" rel="v:starring">柯基·法尔考</a> / <a href="https://www.douban.com/personage/30409252/" rel="v:starring">诺埃米·冈萨雷斯</a> / <a href="https://www.douban.com/personage/36166706/" rel="v:starring">伊丝拉·吉</a> / <a href="https://www.douban.com/personage/27500496/" rel="v:starring">埃米特·斯坎伦</a> / <a href="https://www.douban.com/personage/27242380/" rel="v:starring">伊芙·茂洛</a> / <a href="https://www.douban.com/personage/36707291/" rel="v:starring">克里斯蒂娜·波利</a> / <a href="https://www.douban.com/personage/37300628/" rel="v:starring">安德烈·卡明斯基</a> / <a href="https://www.douban.com/personage/27583779/" rel="v:starring">格雷戈·科尔帕克奇</a> / <a href="https://www.douban.com/personage/35227749/" rel="v:starring">皮特·维特科夫斯基</a> / <a href="https://www.douban.com/personage/34958013/" rel="v:starring">奇迪·阿朱福</a> / <a href="https://www.douban.com/personage/27550745/" rel="v:starring">瑞奇·查普</a> / <a href="https://www.douban.com/personage/37297142/" rel="v:starring">麦克斯·克罗斯</a> / <a href="https://www.douban.com/personage/27487276/" rel="v:starring">肯尼斯·克拉德</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">动作</span> / <span property="v:genre">惊悚</span><br/>
+<span class="pl">制片国家/地区:</span> 英国 / 美国<br/>
+<span class="pl">语言:</span> 英语<br/>
+<span class="pl">上映日期:</span> <span content="2025-03-28(美国/中国大陆)" property="v:initialReleaseDate">2025-03-28(美国/中国大陆)</span><br/>
+<span class="pl">片长:</span> <span content="116" property="v:runtime">116分钟</span><br/>
+<span class="pl">又名:</span> 重裝制裁(台) / 建筑师 / 打工仔 / 打工汉 / 打工人 / 工神救援 / 莱文的交易 / Levon's Trade / Levon Cade<br/>
+<span class="pl">IMDb:</span> tt9150192<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">5.7</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar30"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">11416</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:8px"></div>
+<span class="rating_per">5.9%</span>
+<br>
+</br></div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:20px"></div>
+<span class="rating_per">14.8%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">46.2%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:36px"></div>
+<span class="rating_per">26.0%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:9px"></div>
+<span class="rating_per">7.0%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=动作&amp;type=5&amp;interval_id=45:35&amp;action=">44% 动作片</a><br/>
+            好于 <a href="/typerank?type_name=惊悚&amp;type=19&amp;interval_id=55:45&amp;action=">50% 惊悚片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/35603727/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/35603727/photos?type=R" title="点击看更多海报">
+<img alt="Straume" rel="v:image" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2917594343.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/33414193/" rel="v:directedBy">金兹·兹巴洛迪斯</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/33414193/">金兹·兹巴洛迪斯</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">动画</span> / <span property="v:genre">奇幻</span> / <span property="v:genre">冒险</span><br/>
+<span class="pl">制片国家/地区:</span> 拉脱维亚 / 法国 / 比利时<br/>
+<span class="pl">语言:</span> 无对白<br/>
+<span class="pl">上映日期:</span> <span content="2025-02-28(中国大陆)" property="v:initialReleaseDate">2025-02-28(中国大陆)</span> / <span content="2024-05-22(戛纳电影节)" property="v:initialReleaseDate">2024-05-22(戛纳电影节)</span> / <span content="2024-08-28(拉脱维亚)" property="v:initialReleaseDate">2024-08-28(拉脱维亚)</span><br/>
+<span class="pl">片长:</span> <span content="85" property="v:runtime">85分钟</span><br/>
+<span class="pl">又名:</span> 漂流 / 黑猫的奇幻漂流 / 喵的奇幻漂流(台) / Flow<br/>
+<span class="pl">IMDb:</span> tt4772188<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">8.4</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar40"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">116143</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:51px"></div>
+<span class="rating_per">37.5%</span>
+<br>
+</br></div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">46.9%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:19px"></div>
+<span class="rating_per">14.2%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:1px"></div>
+<span class="rating_per">1.2%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:0px"></div>
+<span class="rating_per">0.2%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=动画&amp;type=25&amp;interval_id=100:90&amp;action=">93% 动画片</a><br/>
+            好于 <a href="/typerank?type_name=奇幻&amp;type=16&amp;interval_id=100:90&amp;action=">95% 奇幻片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/35364691/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/35364691/photos?type=R" title="点击看更多海报">
+<img alt="鬼才之道" rel="v:image" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2917676972.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27543468/" rel="v:directedBy">徐汉强</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/27543468/">徐汉强</a> / <a href="https://www.douban.com/personage/34872081/">蔡坤霖</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27417954/" rel="v:starring">陈柏霖</a> / <a href="https://www.douban.com/personage/27432687/" rel="v:starring">张榕容</a> / <a href="https://www.douban.com/personage/30128803/" rel="v:starring">王净</a> / <a href="https://www.douban.com/personage/27557901/" rel="v:starring">姚以缇</a> / <a href="https://www.douban.com/personage/27562557/" rel="v:starring">百白</a> / <a href="https://www.douban.com/personage/27563659/" rel="v:starring">瘦瘦</a> / <a href="https://www.douban.com/personage/35378566/" rel="v:starring">罗芽里</a> / <a href="/subject_search?search_text=%E8%91%9B%E5%87%A1" rel="v:starring">葛凡</a> / <a href="https://www.douban.com/personage/27482661/" rel="v:starring">那维勋</a> / <a href="https://www.douban.com/personage/36722807/" rel="v:starring">叶静涵</a> / <a href="https://www.douban.com/personage/36516675/" rel="v:starring">赖雨霏</a> / <a href="https://www.douban.com/personage/30181160/" rel="v:starring">黄迪扬</a> / <a href="https://www.douban.com/personage/27562268/" rel="v:starring">林鹤轩</a> / <a href="https://www.douban.com/personage/37236845/" rel="v:starring">龙龙</a> / <a href="https://www.douban.com/personage/35354558/" rel="v:starring">昶玮</a> / <a href="/subject_search?search_text=%E5%B0%B9%E5%AE%A3%E6%96%B9" rel="v:starring">尹宣方</a> / <a href="/subject_search?search_text=%E5%BC%A0%E6%89%BF%E8%B4%A4" rel="v:starring">张承贤</a> / <a href="/subject_search?search_text=%E8%B5%96%E7%8E%9F%E5%90%9B" rel="v:starring">赖玟君</a> / <a href="/subject_search?search_text=%E9%BB%84%E8%B1%AA%E5%B9%B3" rel="v:starring">黄豪平</a> / <a href="https://www.douban.com/personage/27575781/" rel="v:starring">吴志庆</a> / <a href="https://www.douban.com/personage/36133822/" rel="v:starring">杨达敬</a> / <a href="/subject_search?search_text=%E6%B4%AA%E8%97%9C%E6%81%A9" rel="v:starring">洪藜恩</a> / <a href="/subject_search?search_text=%E7%BD%97%E9%A6%99%E8%8F%B1" rel="v:starring">罗香菱</a> / <a href="/subject_search?search_text=%E6%9B%B9%E7%91%9C" rel="v:starring">曹瑜</a> / <a href="/subject_search?search_text=%E6%9D%8E%E8%BF%9B%E4%B8%AD" rel="v:starring">李进中</a> / <a href="/subject_search?search_text=%E9%99%88%E8%91%B3" rel="v:starring">陈葳</a> / <a href="/subject_search?search_text=%E8%94%A1%E9%82%B5%E6%A1%93" rel="v:starring">蔡邵桓</a> / <a href="https://www.douban.com/personage/36803474/" rel="v:starring">苏耀庭</a> / <a href="/subject_search?search_text=%E8%88%92%E4%BC%9F%E6%9D%B0" rel="v:starring">舒伟杰</a> / <a href="https://www.douban.com/personage/36779066/" rel="v:starring">贺珑</a> / <a href="/subject_search?search_text=%E8%91%A3%E8%8A%B7%E6%B6%B5" rel="v:starring">董芷涵</a> / <a href="/subject_search?search_text=%E4%BA%91%E9%9D%96%E4%BA%91" rel="v:starring">云靖云</a> / <a href="/subject_search?search_text=%E5%88%98%E5%86%A0%E5%AE%8F" rel="v:starring">刘冠宏</a> / <a href="https://www.douban.com/personage/36848246/" rel="v:starring">陈怡桦</a> / <a href="https://www.douban.com/personage/30319976/" rel="v:starring">阳靓</a> / <a href="https://www.douban.com/personage/36161830/" rel="v:starring">竺定谊</a> / <a href="https://www.douban.com/personage/36155182/" rel="v:starring">林宴慈</a> / <a href="https://www.douban.com/personage/27559420/" rel="v:starring">谢章颖</a> / <a href="https://www.douban.com/personage/35069521/" rel="v:starring">张雅玲</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">喜剧</span> / <span property="v:genre">恐怖</span><br/>
+<span class="pl">制片国家/地区:</span> 中国台湾<br/>
+<span class="pl">语言:</span> 汉语普通话<br/>
+<span class="pl">上映日期:</span> <span content="2025-02-22(中国大陆)" property="v:initialReleaseDate">2025-02-22(中国大陆)</span> / <span content="2024-08-07(中国台湾)" property="v:initialReleaseDate">2024-08-07(中国台湾)</span> / <span content="2024-08-15(中国香港)" property="v:initialReleaseDate">2024-08-15(中国香港)</span> / <span content="2024-06-28(台北电影节)" property="v:initialReleaseDate">2024-06-28(台北电影节)</span><br/>
+<span class="pl">片长:</span> <span content="112" property="v:runtime">112分钟(中国大陆)</span> / 110分钟<br/>
+<span class="pl">又名:</span> Dead Talents Society / Talents Society<br/>
+<span class="pl">IMDb:</span> tt17079606<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">7.7</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar40"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">108012</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:19px"></div>
+<span class="rating_per">16.6%</span>
+<br>
+</br></div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">53.6%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:32px"></div>
+<span class="rating_per">27.1%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:2px"></div>
+<span class="rating_per">2.4%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:0px"></div>
+<span class="rating_per">0.3%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=喜剧&amp;type=24&amp;interval_id=100:90&amp;action=">92% 喜剧片</a><br/>
+            好于 <a href="/typerank?type_name=恐怖&amp;type=20&amp;interval_id=100:90&amp;action=">97% 恐怖片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/26908303/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/26908303/photos?type=R" title="点击看更多海报">
+<img alt="Snow White" rel="v:image" src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2918741295.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27255451/" rel="v:directedBy">马克·韦布</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/27210962/">艾琳·克雷斯达·威尔森</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/30434670/" rel="v:starring">瑞秋·齐格勒</a> / <a href="https://www.douban.com/personage/34892346/" rel="v:starring">安德鲁·伯纳普</a> / <a href="https://www.douban.com/personage/27250752/" rel="v:starring">盖尔·加朵</a> / <a href="https://www.douban.com/personage/36094999/" rel="v:starring">安德鲁·巴特·费尔德曼</a> / <a href="https://www.douban.com/personage/27493298/" rel="v:starring">杰里米·斯威夫特</a> / <a href="https://www.douban.com/personage/27502373/" rel="v:starring">泰塔斯·伯吉斯</a> / <a href="https://www.douban.com/personage/27216374/" rel="v:starring">马丁·科勒巴</a> / <a href="https://www.douban.com/personage/27260687/" rel="v:starring">贾森·克拉维茨</a> / <a href="https://www.douban.com/personage/37284794/" rel="v:starring">乔治·萨拉萨尔</a> / <a href="https://www.douban.com/personage/37284795/" rel="v:starring">安迪·格罗特卢鲁申</a> / <a href="https://www.douban.com/personage/27341754/" rel="v:starring">帕特里克·佩奇</a> / <a href="https://www.douban.com/personage/36910316/" rel="v:starring">艾米莉亚·福彻</a> / <a href="https://www.douban.com/personage/34836720/" rel="v:starring">安苏·卡比亚</a> / <a href="https://www.douban.com/personage/27455473/" rel="v:starring">哈德利·弗雷泽</a> / <a href="https://www.douban.com/personage/35125816/" rel="v:starring">洛丽娜·安德里亚</a> / <a href="https://www.douban.com/personage/37284796/" rel="v:starring">乔治·阿普尔比</a> / <a href="https://www.douban.com/personage/35422734/" rel="v:starring">科林·迈克尔·卡迈克尔</a> / <a href="https://www.douban.com/personage/37284797/" rel="v:starring">塞缪尔·巴克斯特</a> / <a href="https://www.douban.com/personage/36879942/" rel="v:starring">吉米·约翰斯顿</a> / <a href="https://www.douban.com/personage/36637068/" rel="v:starring">杜乔娜·吉夫特</a> / <a href="https://www.douban.com/personage/37284798/" rel="v:starring">伊德里斯·卡尔博</a> / <a href="https://www.douban.com/personage/37284799/" rel="v:starring">贾伊·贝托特</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">剧情</span> / <span property="v:genre">爱情</span> / <span property="v:genre">歌舞</span> / <span property="v:genre">奇幻</span> / <span property="v:genre">冒险</span><br/>
+<span class="pl">制片国家/地区:</span> 美国 / 意大利 / 英国<br/>
+<span class="pl">语言:</span> 英语 / 德语<br/>
+<span class="pl">上映日期:</span> <span content="2025-03-21(美国/中国大陆)" property="v:initialReleaseDate">2025-03-21(美国/中国大陆)</span><br/>
+<span class="pl">片长:</span> <span content="109" property="v:runtime">109分钟</span><br/>
+<span class="pl">又名:</span> 白雪公主真人版 / 白雪公主和七个小矮人 / Snow White and the Seven Dwarfs<br/>
+<span class="pl">IMDb:</span> tt6208148<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">3.9</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar20"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">12257</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:4px"></div>
+<span class="rating_per">2.6%</span>
+<br>
+</br></div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:7px"></div>
+<span class="rating_per">4.5%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:33px"></div>
+<span class="rating_per">20.9%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:50px"></div>
+<span class="rating_per">31.8%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">40.3%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=剧情&amp;type=11&amp;interval_id=10:0&amp;action=">0% 剧情片</a><br/>
+            好于 <a href="/typerank?type_name=爱情&amp;type=13&amp;interval_id=10:0&amp;action=">2% 爱情片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/30290253/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/30290253/photos?type=R" title="点击看更多海报">
+<img alt="怒水西流" rel="v:image" src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2919458595.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/37215957/" rel="v:directedBy">冯勇沁</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/37215957/">冯勇沁</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27570099/" rel="v:starring">宁理</a> / <a href="https://www.douban.com/personage/27547775/" rel="v:starring">王迅</a> / <a href="https://www.douban.com/personage/27483377/" rel="v:starring">刘敏涛</a> / <a href="https://www.douban.com/personage/27541062/" rel="v:starring">段博文</a> / <a href="https://www.douban.com/personage/27560001/" rel="v:starring">李春嫒</a> / <a href="https://www.douban.com/personage/27499637/" rel="v:starring">吕晓霖</a> / <a href="https://www.douban.com/personage/27496361/" rel="v:starring">陈都灵</a> / <a href="https://www.douban.com/personage/27481057/" rel="v:starring">马书良</a> / <a href="https://www.douban.com/personage/27546735/" rel="v:starring">匡牧野</a> / <a href="https://www.douban.com/personage/27495379/" rel="v:starring">何沄伟</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">悬疑</span> / <span property="v:genre">犯罪</span><br/>
+<span class="pl">制片国家/地区:</span> 中国大陆<br/>
+<span class="pl">语言:</span> 汉语普通话<br/>
+<span class="pl">上映日期:</span> <span content="2025-03-22(中国大陆)" property="v:initialReleaseDate">2025-03-22(中国大陆)</span><br/>
+<span class="pl">片长:</span> <span content="90" property="v:runtime">90分钟</span><br/>
+<span class="pl">又名:</span> The River of Fury<br/>
+<span class="pl">IMDb:</span> tt36150555<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">5.3</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar25"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">8472</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:4px"></div>
+<span class="rating_per">3.2%</span>
+<br>
+</br></div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:15px"></div>
+<span class="rating_per">10.6%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">44.8%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:45px"></div>
+<span class="rating_per">31.8%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:13px"></div>
+<span class="rating_per">9.6%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=犯罪&amp;type=3&amp;interval_id=45:35&amp;action=">41% 犯罪片</a><br/>
+            好于 <a href="/typerank?type_name=悬疑&amp;type=10&amp;interval_id=50:40&amp;action=">45% 悬疑片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/33455421/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/33455421/photos?type=R" title="点击看更多海报">
+<img alt="John Wick: Chapter 4" rel="v:image" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2919110822.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27360369/" rel="v:directedBy">查德·斯塔赫斯基</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/27574179/">迈克尔·芬奇</a> / <a href="https://www.douban.com/personage/33406048/">谢伊·哈顿</a> / <a href="https://www.douban.com/personage/27574519/">德里克·科尔斯塔德</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27213761/" rel="v:starring">基努·里维斯</a> / <a href="https://www.douban.com/personage/27230926/" rel="v:starring">甄子丹</a> / <a href="https://www.douban.com/personage/27232878/" rel="v:starring">伊恩·麦柯肖恩</a> / <a href="https://www.douban.com/personage/27228323/" rel="v:starring">劳伦斯·菲什伯恩</a> / <a href="https://www.douban.com/personage/27228525/" rel="v:starring">比尔·斯卡斯加德</a> / <a href="https://www.douban.com/personage/27233616/" rel="v:starring">真田广之</a> / <a href="https://www.douban.com/personage/30290422/" rel="v:starring">沙米尔·安德森</a> / <a href="https://www.douban.com/personage/35625294/" rel="v:starring">泽山璃奈</a> / <a href="https://www.douban.com/personage/27219608/" rel="v:starring">兰斯·莱迪克</a> / <a href="https://www.douban.com/personage/27219521/" rel="v:starring">克兰西·布朗</a> / <a href="https://www.douban.com/personage/27223636/" rel="v:starring">斯科特·阿金斯</a> / <a href="https://www.douban.com/personage/27223835/" rel="v:starring">马克·扎罗</a> / <a href="https://www.douban.com/personage/27246367/" rel="v:starring">娜塔丽·特纳</a> / <a href="https://www.douban.com/personage/36221061/" rel="v:starring">艾米·关</a> / <a href="https://www.douban.com/personage/36329255/" rel="v:starring">乔治·乔吉奧</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">动作</span> / <span property="v:genre">惊悚</span> / <span property="v:genre">犯罪</span><br/>
+<span class="pl">制片国家/地区:</span> 美国<br/>
+<span class="pl">语言:</span> 英语 / 俄语 / 日语 / 西班牙语 / 德语 / 拉丁语 / 法语 / 粤语<br/>
+<span class="pl">上映日期:</span> <span content="2025-03-14(中国大陆)" property="v:initialReleaseDate">2025-03-14(中国大陆)</span> / <span content="2023-03-13(西南偏南电影节)" property="v:initialReleaseDate">2023-03-13(西南偏南电影节)</span> / <span content="2023-03-24(美国)" property="v:initialReleaseDate">2023-03-24(美国)</span><br/>
+<span class="pl">片长:</span> <span content="170" property="v:runtime">170分钟</span><br/>
+<span class="pl">又名:</span> 杀神John Wick4(港) / 捍卫任务4(台) / 疾速对决 / 疾速反击<br/>
+<span class="pl">IMDb:</span> tt10366206<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">7.3</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar35"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">176949</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:25px"></div>
+<span class="rating_per">16.3%</span>
+<br>
+</br></div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">40.3%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:56px"></div>
+<span class="rating_per">35.5%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:10px"></div>
+<span class="rating_per">6.6%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:2px"></div>
+<span class="rating_per">1.3%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=动作&amp;type=5&amp;interval_id=90:80&amp;action=">87% 动作片</a><br/>
+            好于 <a href="/typerank?type_name=犯罪&amp;type=3&amp;interval_id=90:80&amp;action=">86% 犯罪片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/36097598/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/36097598/photos?type=R" title="点击看更多海报">
+<img alt="午时三刻" rel="v:image" src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2913620444.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/35212044/" rel="v:directedBy">童辉</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/36453951/">刘岩川</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27553296/" rel="v:starring">罗立群</a> / <a href="https://www.douban.com/personage/27581942/" rel="v:starring">黄小超</a> / <a href="https://www.douban.com/personage/35211386/" rel="v:starring">刘官琪</a> / <a href="https://www.douban.com/personage/35305583/" rel="v:starring">单明凯</a> / <a href="https://www.douban.com/personage/30187560/" rel="v:starring">脑门额尔德尼</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">动作</span> / <span property="v:genre">悬疑</span> / <span property="v:genre">战争</span> / <span property="v:genre">古装</span><br/>
+<span class="pl">制片国家/地区:</span> 中国大陆<br/>
+<span class="pl">语言:</span> 汉语普通话<br/>
+<span class="pl">上映日期:</span> <span content="2025-04-04(中国大陆)" property="v:initialReleaseDate">2025-04-04(中国大陆)</span> / <span content="2024-10-25(重庆青年电影展)" property="v:initialReleaseDate">2024-10-25(重庆青年电影展)</span><br/>
+<span class="pl">片长:</span> <span content="90" property="v:runtime">90分钟</span><br/>
+<span class="pl">又名:</span> The Deadline<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average"></strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right not_showed">
+<div class="ll bigstar bigstar00"></div>
+<div class="rating_sum">
+                暂无评分
+        </div>
+</div>
+</div>
+<div class="ratings-on-weight">
+</div>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/36166566/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/36166566/photos?type=R" title="点击看更多海报">
+<img alt="我会好好的" rel="v:image" src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2919558104.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/35605196/" rel="v:directedBy">董宏杰</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/27494429/">薛晓路</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27481218/" rel="v:starring">张子枫</a> / <a href="https://www.douban.com/personage/27480917/" rel="v:starring">王景春</a> / <a href="https://www.douban.com/personage/36363846/" rel="v:starring">塔塔</a> / <a href="https://www.douban.com/personage/27577011/" rel="v:starring">张子贤</a> / <a href="https://www.douban.com/personage/27541412/" rel="v:starring">王骁</a> / <a href="https://www.douban.com/personage/27481430/" rel="v:starring">张佳宁</a> / <a href="https://www.douban.com/personage/35473423/" rel="v:starring">杨恩又</a> / <a href="https://www.douban.com/personage/27552501/" rel="v:starring">陆思宇</a> / <a href="https://www.douban.com/personage/27485537/" rel="v:starring">李晓川</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">剧情</span><br/>
+<span class="pl">制片国家/地区:</span> 中国大陆 / 中国香港<br/>
+<span class="pl">语言:</span> 汉语普通话<br/>
+<span class="pl">上映日期:</span> <span content="2025-03-22(中国大陆)" property="v:initialReleaseDate">2025-03-22(中国大陆)</span><br/>
+<span class="pl">片长:</span> <span content="124" property="v:runtime">124分钟</span><br/>
+<span class="pl">又名:</span> 说再见 / New Life<br/>
+<span class="pl">IMDb:</span> tt27641237<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">6.2</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar30"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">8428</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:21px"></div>
+<span class="rating_per">11.9%</span>
+<br>
+</br></div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:38px"></div>
+<span class="rating_per">21.5%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">36.2%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:39px"></div>
+<span class="rating_per">22.5%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:13px"></div>
+<span class="rating_per">7.8%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=剧情&amp;type=11&amp;interval_id=45:35&amp;action=">43% 剧情片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/34780991/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/34780991/photos?type=R" title="点击看更多海报">
+<img alt="哪吒之魔童闹海" rel="v:image" src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2916323291.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27556372/" rel="v:directedBy">饺子</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/27556372/">饺子</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/34468510/" rel="v:starring">吕艳婷</a> / <a href="https://www.douban.com/personage/30313971/" rel="v:starring">囧森瑟夫</a> / <a href="https://www.douban.com/personage/30313970/" rel="v:starring">瀚墨</a> / <a href="https://www.douban.com/personage/27497269/" rel="v:starring">陈浩</a> / <a href="https://www.douban.com/personage/27581314/" rel="v:starring">绿绮</a> / <a href="https://www.douban.com/personage/34481455/" rel="v:starring">张珈铭</a> / <a href="https://www.douban.com/personage/34468512/" rel="v:starring">杨卫</a> / <a href="https://www.douban.com/personage/27495035/" rel="v:starring">王德顺</a> / <a href="https://www.douban.com/personage/34814731/" rel="v:starring">雨辰</a> / <a href="https://www.douban.com/personage/34805983/" rel="v:starring">李南</a> / <a href="https://www.douban.com/personage/27553829/" rel="v:starring">周泳汐</a> / <a href="https://www.douban.com/personage/36558540/" rel="v:starring">韩雨泽</a> / <a href="https://www.douban.com/personage/36732146/" rel="v:starring">南屿</a> / <a href="https://www.douban.com/personage/36732134/" rel="v:starring">张运气</a> / <a href="https://www.douban.com/personage/34793585/" rel="v:starring">杏林儿</a> / <a href="https://www.douban.com/personage/37218957/" rel="v:starring">王智行</a> / <a href="https://www.douban.com/personage/37218958/" rel="v:starring">张稷</a> / <a href="https://www.douban.com/personage/36732133/" rel="v:starring">良生</a> / <a href="https://www.douban.com/personage/35561132/" rel="v:starring">幻听</a> / <a href="https://www.douban.com/personage/35561134/" rel="v:starring">零柒</a> / <a href="https://www.douban.com/personage/27493412/" rel="v:starring">龚格尔</a> / <a href="https://www.douban.com/personage/37218959/" rel="v:starring">陈厚霖</a> / <a href="https://www.douban.com/personage/37228612/" rel="v:starring">小薇</a> / <a href="https://www.douban.com/personage/27556372/" rel="v:starring">饺子</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">剧情</span> / <span property="v:genre">喜剧</span> / <span property="v:genre">动画</span> / <span property="v:genre">奇幻</span><br/>
+<span class="pl">制片国家/地区:</span> 中国大陆<br/>
+<span class="pl">语言:</span> 汉语普通话<br/>
+<span class="pl">上映日期:</span> <span content="2025-01-29(中国大陆)" property="v:initialReleaseDate">2025-01-29(中国大陆)</span><br/>
+<span class="pl">片长:</span> <span content="144" property="v:runtime">144分钟</span><br/>
+<span class="pl">又名:</span> 哪吒2 / 哪吒2之魔童闹海 / Ne Zha 2<br/>
+<span class="pl">IMDb:</span> tt34956443<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">8.5</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar45"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">1347932</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">49.1%</span>
+<br>
+</br></div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:44px"></div>
+<span class="rating_per">33.9%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:17px"></div>
+<span class="rating_per">13.2%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:3px"></div>
+<span class="rating_per">2.5%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:1px"></div>
+<span class="rating_per">1.3%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=剧情&amp;type=11&amp;interval_id=100:90&amp;action=">96% 剧情片</a><br/>
+            好于 <a href="/typerank?type_name=喜剧&amp;type=24&amp;interval_id=100:90&amp;action=">98% 喜剧片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/35938713/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/35938713/photos?type=R" title="点击看更多海报">
+<img alt="天堂旅行团" rel="v:image" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2919025919.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27480865/" rel="v:directedBy">刘杰</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/27541392/">张嘉佳</a> / <a href="https://www.douban.com/personage/36216060/">郭涛</a> / <a href="https://www.douban.com/personage/34439002/">杨富芝</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27546840/" rel="v:starring">彭昱畅</a> / <a href="https://www.douban.com/personage/35473423/" rel="v:starring">杨恩又</a> / <a href="https://www.douban.com/personage/27503421/" rel="v:starring">魏大勋</a> / <a href="https://www.douban.com/personage/34978388/" rel="v:starring">李雪琴</a> / <a href="https://www.douban.com/personage/27568508/" rel="v:starring">吴谨言</a> / <a href="https://www.douban.com/personage/27542050/" rel="v:starring">吕星辰</a> / <a href="https://www.douban.com/personage/27577029/" rel="v:starring">邹元清</a> / <a href="https://www.douban.com/personage/36641126/" rel="v:starring">任小丽</a> / <a href="https://www.douban.com/personage/27504007/" rel="v:starring">张靓颖</a> / <a href="https://www.douban.com/personage/27480235/" rel="v:starring">邓超</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">剧情</span><br/>
+<span class="pl">制片国家/地区:</span> 中国大陆<br/>
+<span class="pl">语言:</span> 汉语普通话<br/>
+<span class="pl">上映日期:</span> <span content="2025-03-08(中国大陆)" property="v:initialReleaseDate">2025-03-08(中国大陆)</span><br/>
+<span class="pl">片长:</span> <span content="98" property="v:runtime">98分钟</span><br/>
+<span class="pl">又名:</span> Always Have Always Will<br/>
+<span class="pl">IMDb:</span> tt32827586<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">5.4</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar25"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">10254</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:11px"></div>
+<span class="rating_per">6.3%</span>
+<br>
+</br></div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:22px"></div>
+<span class="rating_per">13.0%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">36.5%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:53px"></div>
+<span class="rating_per">30.3%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:24px"></div>
+<span class="rating_per">13.9%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=剧情&amp;type=11&amp;interval_id=30:20&amp;action=">25% 剧情片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/35295042/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/35295042/photos?type=R" title="点击看更多海报">
+<img alt="不完美逃脱" rel="v:image" src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2919573066.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/34817057/" rel="v:directedBy">金川</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/34817057/">金川</a> / <a href="https://www.douban.com/personage/35523510/">谢檬羽</a> / <a href="https://www.douban.com/personage/35444568/">李晗</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27577531/" rel="v:starring">卜冠今</a> / <a href="https://www.douban.com/personage/27494937/" rel="v:starring">庞瀚辰</a> / <a href="https://www.douban.com/personage/27552257/" rel="v:starring">张兆北</a> / <a href="https://www.douban.com/personage/36576785/" rel="v:starring">王子木</a> / <a href="https://www.douban.com/personage/27559716/" rel="v:starring">提爱民</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">剧情</span> / <span property="v:genre">悬疑</span> / <span property="v:genre">惊悚</span> / <span property="v:genre">犯罪</span><br/>
+<span class="pl">制片国家/地区:</span> 中国大陆<br/>
+<span class="pl">语言:</span> 汉语普通话<br/>
+<span class="pl">上映日期:</span> <span content="2025-04-03(中国大陆)" property="v:initialReleaseDate">2025-04-03(中国大陆)</span> / <span content="2024-07-23(FIRST青年电影展)" property="v:initialReleaseDate">2024-07-23(FIRST青年电影展)</span><br/>
+<span class="pl">片长:</span> <span content="97" property="v:runtime">97分钟</span><br/>
+<span class="pl">又名:</span> A Long Shot<br/>
+<span class="pl">IMDb:</span> tt36374215<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average"></strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right not_showed">
+<div class="ll bigstar bigstar00"></div>
+<div class="rating_sum">
+                暂无评分
+        </div>
+</div>
+</div>
+<div class="ratings-on-weight">
+</div>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/34800604/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/34800604/photos?type=R" title="点击看更多海报">
+<img alt="夜半凶宅" rel="v:image" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2917516472.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27554134/" rel="v:directedBy">王盈希</a> / <a href="https://www.douban.com/personage/37204606/" rel="v:directedBy">陈京</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/37204610/">秦晨岚</a> / <a href="https://www.douban.com/personage/27576431/">李茜</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27483084/" rel="v:starring">陈美行</a> / <a href="https://www.douban.com/personage/37204607/" rel="v:starring">王成钧</a> / <a href="https://www.douban.com/personage/37204608/" rel="v:starring">孙杨</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">惊悚</span> / <span property="v:genre">恐怖</span><br/>
+<span class="pl">制片国家/地区:</span> 中国大陆<br/>
+<span class="pl">语言:</span> 汉语普通话<br/>
+<span class="pl">上映日期:</span> <span content="2025-03-14(中国大陆)" property="v:initialReleaseDate">2025-03-14(中国大陆)</span><br/>
+<span class="pl">又名:</span> 夜魅 / Nightmare Haunted House<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average"></strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right not_showed">
+<div class="ll bigstar bigstar00"></div>
+<div class="rating_sum">
+                暂无评分
+        </div>
+</div>
+</div>
+<div class="ratings-on-weight">
+</div>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/36282639/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/36282639/photos?type=R" title="点击看更多海报">
+<img alt="唐探1900" rel="v:image" src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917556416.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27495258/" rel="v:directedBy">陈思诚</a> / <a href="https://www.douban.com/personage/27548066/" rel="v:directedBy">戴墨</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/27495258/">陈思诚</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27499924/" rel="v:starring">王宝强</a> / <a href="https://www.douban.com/personage/27552650/" rel="v:starring">刘昊然</a> / <a href="https://www.douban.com/personage/27250655/" rel="v:starring">周润发</a> / <a href="https://www.douban.com/personage/27572788/" rel="v:starring">白客</a> / <a href="https://www.douban.com/personage/27552296/" rel="v:starring">张新成</a> / <a href="https://www.douban.com/personage/27502346/" rel="v:starring">岳云鹏</a> / <a href="https://www.douban.com/personage/27224710/" rel="v:starring">约翰·库萨克</a> / <a href="https://www.douban.com/personage/37215185/" rel="v:starring">安娜</a> / <a href="https://www.douban.com/personage/27541055/" rel="v:starring">太保</a> / <a href="https://www.douban.com/personage/27581740/" rel="v:starring">王雨甜</a> / <a href="https://www.douban.com/personage/27575389/" rel="v:starring">张傲月</a> / <a href="https://www.douban.com/personage/27562096/" rel="v:starring">柯国庆</a> / <a href="https://www.douban.com/personage/37187435/" rel="v:starring">海宇翔</a> / <a href="https://www.douban.com/personage/36228104/" rel="v:starring">肖恩·科恩克</a> / <a href="https://www.douban.com/personage/35694983/" rel="v:starring">暗真</a> / <a href="https://www.douban.com/personage/27575678/" rel="v:starring">魏翔</a> / <a href="https://www.douban.com/personage/27555895/" rel="v:starring">尹正</a> / <a href="https://www.douban.com/personage/27207404/" rel="v:starring">奚美娟</a> / <a href="https://www.douban.com/personage/27482605/" rel="v:starring">李诚儒</a> / <a href="https://www.douban.com/personage/27480077/" rel="v:starring">小沈阳</a> / <a href="https://www.douban.com/personage/27548835/" rel="v:starring">冯文娟</a> / <a href="https://www.douban.com/personage/27504105/" rel="v:starring">桑平</a> / <a href="https://www.douban.com/personage/27560682/" rel="v:starring">曹瑞</a> / <a href="https://www.douban.com/personage/35682414/" rel="v:starring">王皓</a> / <a href="https://www.douban.com/personage/27487454/" rel="v:starring">陈创</a> / <a href="https://www.douban.com/personage/27549689/" rel="v:starring">蒋易</a> / <a href="https://www.douban.com/personage/27564929/" rel="v:starring">李宛妲</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">喜剧</span> / <span property="v:genre">动作</span> / <span property="v:genre">悬疑</span><br/>
+<span class="pl">制片国家/地区:</span> 中国大陆 / 中国香港<br/>
+<span class="pl">语言:</span> 汉语普通话 / 英语<br/>
+<span class="pl">上映日期:</span> <span content="2025-01-29(中国大陆)" property="v:initialReleaseDate">2025-01-29(中国大陆)</span><br/>
+<span class="pl">片长:</span> <span content="136" property="v:runtime">136分钟</span><br/>
+<span class="pl">又名:</span> 唐人街探案1900 / 唐人街探案前传 / 唐探前传 / Detective Chinatown 1900<br/>
+<span class="pl">IMDb:</span> tt34463310<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">6.5</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar35"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">429515</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:15px"></div>
+<span class="rating_per">10.0%</span>
+<br>
+</br></div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:47px"></div>
+<span class="rating_per">30.7%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">41.3%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:19px"></div>
+<span class="rating_per">12.6%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:8px"></div>
+<span class="rating_per">5.4%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=喜剧&amp;type=24&amp;interval_id=80:70&amp;action=">77% 喜剧片</a><br/>
+            好于 <a href="/typerank?type_name=动作&amp;type=5&amp;interval_id=80:70&amp;action=">78% 动作片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/36289423/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/36289423/photos?type=R" title="点击看更多海报">
+<img alt="射雕英雄传：侠之大者" rel="v:image" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2917502509.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27212843/" rel="v:directedBy">徐克</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/27212843/">徐克</a> / <a href="https://www.douban.com/personage/27494824/">宋譞</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27502878/" rel="v:starring">肖战</a> / <a href="https://www.douban.com/personage/30380543/" rel="v:starring">庄达菲</a> / <a href="https://www.douban.com/personage/27324010/" rel="v:starring">梁家辉</a> / <a href="https://www.douban.com/personage/37168129/" rel="v:starring">张文昕</a> / <a href="https://www.douban.com/personage/30407467/" rel="v:starring">巴雅尔图</a> / <a href="https://www.douban.com/personage/27577530/" rel="v:starring">阿如那</a> / <a href="https://www.douban.com/personage/27256709/" rel="v:starring">蔡少芬</a> / <a href="https://www.douban.com/personage/27238280/" rel="v:starring">胡军</a> / <a href="https://www.douban.com/personage/27529603/" rel="v:starring">吴兴国</a> / <a href="https://www.douban.com/personage/37218371/" rel="v:starring">纳仁巴特尔</a> / <a href="https://www.douban.com/personage/37218372/" rel="v:starring">依特格勒</a> / <a href="https://www.douban.com/personage/27551441/" rel="v:starring">李海涛</a> / <a href="https://www.douban.com/personage/34923435/" rel="v:starring">图门巴雅尔</a> / <a href="https://www.douban.com/personage/27589476/" rel="v:starring">威力斯</a> / <a href="https://www.douban.com/personage/27506936/" rel="v:starring">元彬</a> / <a href="https://www.douban.com/personage/27494601/" rel="v:starring">杜玉明</a> / <a href="https://www.douban.com/personage/27408888/" rel="v:starring">释彦能</a> / <a href="https://www.douban.com/personage/27483982/" rel="v:starring">许明虎</a> / <a href="https://www.douban.com/personage/27480237/" rel="v:starring">李晨</a> / <a href="https://www.douban.com/personage/37218373/" rel="v:starring">李欣阳</a> / <a href="https://www.douban.com/personage/27502227/" rel="v:starring">孙建魁</a> / <a href="https://www.douban.com/personage/27547638/" rel="v:starring">徐向东</a> / <a href="https://www.douban.com/personage/35258382/" rel="v:starring">王涌澄</a> / <a href="https://www.douban.com/personage/36611339/" rel="v:starring">刘占领 </a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">武侠</span><br/>
+<span class="pl">制片国家/地区:</span> 中国大陆<br/>
+<span class="pl">语言:</span> 汉语普通话 / 蒙语<br/>
+<span class="pl">上映日期:</span> <span content="2025-01-29(中国大陆)" property="v:initialReleaseDate">2025-01-29(中国大陆)</span><br/>
+<span class="pl">片长:</span> <span content="146" property="v:runtime">146分钟</span><br/>
+<span class="pl">又名:</span> 射雕三部曲1 / The Legend of the Condor Heroes: The Great Hero / Legends of The Condor Heroes: The Gallants<br/>
+<span class="pl">IMDb:</span> tt28131433<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">5.2</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar25"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">463055</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:32px"></div>
+<span class="rating_per">15.1%</span>
+<br>
+</br></div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:24px"></div>
+<span class="rating_per">11.5%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:48px"></div>
+<span class="rating_per">22.2%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:46px"></div>
+<span class="rating_per">21.5%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">29.6%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=武侠&amp;type=29&amp;interval_id=55:45&amp;action=">50% 武侠片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/35902857/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/35902857/photos?type=R" title="点击看更多海报">
+<img alt="Perfect Days" rel="v:image" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2914293980.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27260170/" rel="v:directedBy">维姆·文德斯</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/27260170/">维姆·文德斯</a> / <a href="https://www.douban.com/personage/27488181/">高崎卓马</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27371375/" rel="v:starring">役所广司</a> / <a href="https://www.douban.com/personage/27541351/" rel="v:starring">柄本时生</a> / <a href="https://www.douban.com/personage/36409227/" rel="v:starring">中野有纱</a> / <a href="https://www.douban.com/personage/36168498/" rel="v:starring">山田葵 </a> / <a href="https://www.douban.com/personage/27264359/" rel="v:starring">麻生祐未</a> / <a href="https://www.douban.com/personage/27491223/" rel="v:starring">石川小百合</a> / <a href="https://www.douban.com/personage/27213882/" rel="v:starring">三浦友和</a> / <a href="https://www.douban.com/personage/27527169/" rel="v:starring">田中泯</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">剧情</span><br/>
+<span class="pl">官方网站:</span> <a href="https://www.perfectdays-movie.jp" rel="nofollow" target="_blank">https://www.perfectdays-movie.jp</a><br/>
+<span class="pl">制片国家/地区:</span> 日本 / 德国<br/>
+<span class="pl">语言:</span> 日语 / 英语<br/>
+<span class="pl">上映日期:</span> <span content="2024-11-15(中国大陆)" property="v:initialReleaseDate">2024-11-15(中国大陆)</span> / <span content="2023-05-25(戛纳电影节)" property="v:initialReleaseDate">2023-05-25(戛纳电影节)</span> / <span content="2023-12-21(德国)" property="v:initialReleaseDate">2023-12-21(德国)</span> / <span content="2023-12-22(日本)" property="v:initialReleaseDate">2023-12-22(日本)</span><br/>
+<span class="pl">片长:</span> <span content="125" property="v:runtime">125分钟</span><br/>
+<span class="pl">又名:</span> 东京厕所 / 我的完美日常(台) / 新活日常(港) / The Tokyo Toilet<br/>
+<span class="pl">IMDb:</span> tt27503384<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">8.5</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar45"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">116990</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">42.4%</span>
+<br>
+</br></div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:63px"></div>
+<span class="rating_per">41.8%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:20px"></div>
+<span class="rating_per">13.5%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:2px"></div>
+<span class="rating_per">1.8%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:0px"></div>
+<span class="rating_per">0.5%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=剧情&amp;type=11&amp;interval_id=100:90&amp;action=">94% 剧情片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/36177245/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/36177245/photos?type=R" title="点击看更多海报">
+<img alt="きみの色" rel="v:image" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2918131669.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27485635/" rel="v:directedBy">山田尚子</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/27502068/">吉田玲子</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/36818731/" rel="v:starring">铃川纱由</a> / <a href="https://www.douban.com/personage/35712594/" rel="v:starring">高石明里</a> / <a href="https://www.douban.com/personage/35926694/" rel="v:starring">木户大圣</a> / <a href="https://www.douban.com/personage/27224286/" rel="v:starring">新垣结衣</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">动画</span> / <span property="v:genre">音乐</span><br/>
+<span class="pl">官方网站:</span> <a href="https://kiminoiro.jp" rel="nofollow" target="_blank">https://kiminoiro.jp</a><br/>
+<span class="pl">制片国家/地区:</span> 日本<br/>
+<span class="pl">语言:</span> 日语<br/>
+<span class="pl">上映日期:</span> <span content="2025-02-21(中国大陆)" property="v:initialReleaseDate">2025-02-21(中国大陆)</span> / <span content="2024-06-16(上海国际电影节)" property="v:initialReleaseDate">2024-06-16(上海国际电影节)</span> / <span content="2024-08-30(日本)" property="v:initialReleaseDate">2024-08-30(日本)</span><br/>
+<span class="pl">片长:</span> <span content="96" property="v:runtime">96分钟(中国大陆)</span> / 101分钟<br/>
+<span class="pl">又名:</span> Kimi no iro / Your Color / The Colors Within<br/>
+<span class="pl">IMDb:</span> tt23951384<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">7.0</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar35"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">25821</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:18px"></div>
+<span class="rating_per">12.9%</span>
+<br>
+</br></div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:49px"></div>
+<span class="rating_per">33.8%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">43.7%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:12px"></div>
+<span class="rating_per">8.5%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:1px"></div>
+<span class="rating_per">1.2%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=动画&amp;type=25&amp;interval_id=70:60&amp;action=">67% 动画片</a><br/>
+            好于 <a href="/typerank?type_name=音乐&amp;type=14&amp;interval_id=80:70&amp;action=">76% 音乐片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/1291557/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/1291557/photos?type=R" title="点击看更多海报">
+<img alt="花樣年華" rel="v:image" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2918312477.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27246779/" rel="v:directedBy">王家卫</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/27246779/">王家卫</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27480234/" rel="v:starring">张曼玉</a> / <a href="https://www.douban.com/personage/27321759/" rel="v:starring">梁朝伟</a> / <a href="https://www.douban.com/personage/27491473/" rel="v:starring">潘迪华</a> / <a href="https://www.douban.com/personage/27257836/" rel="v:starring">雷震</a> / <a href="https://www.douban.com/personage/27525995/" rel="v:starring">萧炳林</a> / <a href="https://www.douban.com/personage/30380747/" rel="v:starring">陈万雷</a> / <a href="https://www.douban.com/personage/27482313/" rel="v:starring">张同祖</a> / <a href="https://www.douban.com/personage/27417030/" rel="v:starring">钱似莺</a> / <a href="https://www.douban.com/personage/37075487/" rel="v:starring">顾锦华</a> / <a href="https://www.douban.com/personage/27218443/" rel="v:starring">张耀扬</a> / <a href="https://www.douban.com/personage/27256427/" rel="v:starring">孙佳君</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">剧情</span> / <span property="v:genre">爱情</span><br/>
+<span class="pl">制片国家/地区:</span> 中国香港<br/>
+<span class="pl">语言:</span> 粤语 / 沪语 / 法语<br/>
+<span class="pl">上映日期:</span> <span content="2000-11-24(中国大陆)" property="v:initialReleaseDate">2000-11-24(中国大陆)</span> / <span content="2025-02-14(中国大陆·导演特别版)" property="v:initialReleaseDate">2025-02-14(中国大陆·导演特别版)</span> / <span content="2000-09-29(中国香港)" property="v:initialReleaseDate">2000-09-29(中国香港)</span> / <span content="2000-05-20(戛纳电影节)" property="v:initialReleaseDate">2000-05-20(戛纳电影节)</span><br/>
+<span class="pl">片长:</span> <span content="103" property="v:runtime">103分钟(导演剪辑版)</span> / 98分钟<br/>
+<span class="pl">又名:</span> 花样年华导演特别版 / 花样年华4K修复版 / 花样年华导演剪辑版 / In the Mood for Love / 秘密 / 对倒<br/>
+<span class="pl">IMDb:</span> tt0118694<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">8.8</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar45"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">757942</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">50.5%</span>
+<br>
+</br></div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:50px"></div>
+<span class="rating_per">39.5%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:11px"></div>
+<span class="rating_per">9.2%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:0px"></div>
+<span class="rating_per">0.7%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:0px"></div>
+<span class="rating_per">0.2%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=剧情&amp;type=11&amp;interval_id=100:90&amp;action=">98% 剧情片</a><br/>
+            好于 <a href="/typerank?type_name=爱情&amp;type=13&amp;interval_id=100:90&amp;action=">98% 爱情片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/1297447/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/1297447/photos?type=R" title="点击看更多海报">
+<img alt="倩女幽魂" rel="v:image" src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2918554634.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27508943/" rel="v:directedBy">程小东</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/27566979/">阮继志</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27209184/" rel="v:starring">张国荣</a> / <a href="https://www.douban.com/personage/27372793/" rel="v:starring">王祖贤</a> / <a href="https://www.douban.com/personage/27260050/" rel="v:starring">午马</a> / <a href="https://www.douban.com/personage/27482716/" rel="v:starring">刘兆铭</a> / <a href="https://www.douban.com/personage/27517585/" rel="v:starring">林威</a> / <a href="https://www.douban.com/personage/27494621/" rel="v:starring">薛芷伦</a> / <a href="https://www.douban.com/personage/27503085/" rel="v:starring">王晶</a> / <a href="https://www.douban.com/personage/27529611/" rel="v:starring">胡大为</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">爱情</span> / <span property="v:genre">奇幻</span> / <span property="v:genre">武侠</span> / <span property="v:genre">古装</span><br/>
+<span class="pl">制片国家/地区:</span> 中国香港<br/>
+<span class="pl">语言:</span> 粤语<br/>
+<span class="pl">上映日期:</span> <span content="2011-04-30(中国大陆)" property="v:initialReleaseDate">2011-04-30(中国大陆)</span> / <span content="2025-03-21(中国大陆重映)" property="v:initialReleaseDate">2025-03-21(中国大陆重映)</span> / <span content="1987-07-18(中国香港)" property="v:initialReleaseDate">1987-07-18(中国香港)</span><br/>
+<span class="pl">片长:</span> <span content="96" property="v:runtime">96分钟</span><br/>
+<span class="pl">又名:</span> 倩女幽魂(87版) / 倩女幽魂：妖魔道 / A Chinese Ghost Story<br/>
+<span class="pl">IMDb:</span> tt0093978<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">8.8</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar45"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">810009</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">49.3%</span>
+<br>
+</br></div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:53px"></div>
+<span class="rating_per">40.9%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:11px"></div>
+<span class="rating_per">9.2%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:0px"></div>
+<span class="rating_per">0.4%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:0px"></div>
+<span class="rating_per">0.1%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=爱情&amp;type=13&amp;interval_id=100:90&amp;action=">98% 爱情片</a><br/>
+            好于 <a href="/typerank?type_name=奇幻&amp;type=16&amp;interval_id=100:90&amp;action=">98% 奇幻片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/36970301/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/36970301/photos?type=R" title="点击看更多海报">
+<img alt="熊出没·重启未来" rel="v:image" src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917469446.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27575288/" rel="v:directedBy">林永长</a> / <a href="https://www.douban.com/personage/36168445/" rel="v:directedBy">瞿才佳</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/27552818/">徐芸</a> / <a href="https://www.douban.com/personage/27552820/">崔铁志</a> / <a href="https://www.douban.com/personage/36168444/">刘圳杰</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27572202/" rel="v:starring">谭笑</a> / <a href="https://www.douban.com/personage/27572200/" rel="v:starring">张秉君</a> / <a href="https://www.douban.com/personage/27572201/" rel="v:starring">张伟</a> / <a href="https://www.douban.com/personage/27572208/" rel="v:starring">刘思奇</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">剧情</span> / <span property="v:genre">喜剧</span> / <span property="v:genre">科幻</span> / <span property="v:genre">动画</span><br/>
+<span class="pl">制片国家/地区:</span> 中国大陆<br/>
+<span class="pl">语言:</span> 汉语普通话<br/>
+<span class="pl">上映日期:</span> <span content="2025-01-29(中国大陆)" property="v:initialReleaseDate">2025-01-29(中国大陆)</span><br/>
+<span class="pl">片长:</span> <span content="108" property="v:runtime">108分钟</span><br/>
+<span class="pl">又名:</span> 熊出没：重启未来 / 熊出没大电影11 / Boonie Bears: Future Reborn<br/>
+<span class="pl">IMDb:</span> tt35314383<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">7.1</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar35"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">35729</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:26px"></div>
+<span class="rating_per">16.7%</span>
+<br>
+</br></div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:53px"></div>
+<span class="rating_per">34.0%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">40.8%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:10px"></div>
+<span class="rating_per">6.4%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:3px"></div>
+<span class="rating_per">2.1%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=剧情&amp;type=11&amp;interval_id=80:70&amp;action=">75% 剧情片</a><br/>
+            好于 <a href="/typerank?type_name=喜剧&amp;type=24&amp;interval_id=85:75&amp;action=">83% 喜剧片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>], ['https://movie.douban.com/subject/35624863/?from=playing_poster', <div class="subjectwrap clearfix">
+<div class="subject clearfix">
+<div id="mainpic">
+<a class="nbgnbg" href="https://movie.douban.com/subject/35624863/photos?type=R" title="点击看更多海报">
+<img alt="援藏日记" rel="v:image" src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2919109836.jpg" title="点击看更多海报"/>
+</a>
+</div>
+<div id="info">
+<span><span class="pl">导演</span>: <span class="attrs"><a href="https://www.douban.com/personage/35634084/" rel="v:directedBy">陈中阳</a></span></span><br/>
+<span><span class="pl">编剧</span>: <span class="attrs"><a href="https://www.douban.com/personage/35634084/">陈中阳</a> / <a href="/subject_search?search_text=%E7%8E%8B%E6%81%92">王恒</a></span></span><br/>
+<span><span class="pl">主演</span>: <span class="attrs"><a href="https://www.douban.com/personage/27549945/" rel="v:starring">范家其</a> / <a href="https://www.douban.com/personage/27553524/" rel="v:starring">旺卓措</a> / <a href="https://www.douban.com/personage/27483558/" rel="v:starring">王海祥</a></span></span><br/>
+<span class="pl">类型:</span> <span property="v:genre">剧情</span><br/>
+<span class="pl">制片国家/地区:</span> 中国大陆<br/>
+<span class="pl">语言:</span> 汉语普通话<br/>
+<span class="pl">上映日期:</span> <span content="2021-11-05(中国大陆网络)" property="v:initialReleaseDate">2021-11-05(中国大陆网络)</span> / <span content="2025-03-20(中国大陆)" property="v:initialReleaseDate">2025-03-20(中国大陆)</span><br/>
+<span class="pl">片长:</span> <span content="113" property="v:runtime">113分钟</span><br/>
+<span class="pl">又名:</span> 藏草青青 / Tibetan Aid Diary<br/>
+</div>
+<script type="text/javascript">
+$(function(){
+    var limit = 5
+    $('#info .attrs').each(function() {
+        var $list = $(this).find('a')
+        var $attrs = $(this)
+
+        if($list.length > limit) {
+            $attrs.empty()
+            $list.each(function(idx) {
+                if (idx+1 === $list.length) {
+                    $('<span></span>').prepend($(this)).appendTo($attrs);
+                } else {
+                    $('<span> / </span>').prepend($(this)).appendTo($attrs);
+                }
+            })
+
+            $attrs.append('<a href="javascript:;" class="more-attrs" title="显示更多">更多...</a>')
+            $('.more-attrs').on('click', function() {
+                $(this).parent().find('span').show()
+                $(this).hide()
+            })
+
+            $attrs.find('span').slice(limit).hide()
+        }
+    })
+})
+</script>
+</div>
+<link href="https://img3.doubanio.com/cuphead/movie-static/download-output-image/index.7aaa3.css" rel="stylesheet"/>
+<div id="interest_sectl">
+<div class="rating_wrap clearbox" rel="v:rating">
+<div class="clearfix">
+<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+<div class="output-btn-wrap rr" style="display:none">
+<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png"/>
+<a class="download-output-image" href="#">引用</a>
+</div>
+</div>
+<div class="rating_self clearfix" typeof="v:Rating">
+<strong class="ll rating_num" property="v:average">7.9</strong>
+<span content="10.0" property="v:best"></span>
+<div class="rating_right">
+<div class="ll bigstar bigstar40"></div>
+<div class="rating_sum">
+<a class="rating_people" href="comments">
+<span property="v:votes">4004</span>人评价
+                </a>
+</div>
+</div>
+</div>
+<div class="ratings-on-weight">
+<div class="item">
+<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+<div class="power" style="width:52px"></div>
+<span class="rating_per">31.5%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+<div class="power" style="width:64px"></div>
+<span class="rating_per">38.5%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+<div class="power" style="width:39px"></div>
+<span class="rating_per">23.6%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+<div class="power" style="width:7px"></div>
+<span class="rating_per">4.7%</span>
+<br/>
+</div>
+<div class="item">
+<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+<div class="power" style="width:2px"></div>
+<span class="rating_per">1.7%</span>
+<br/>
+</div>
+</div>
+</div>
+<div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=剧情&amp;type=11&amp;interval_id=55:45&amp;action=">53% 剧情片</a><br/>
+</div>
+</div>
+<script src="https://img1.doubanio.com/cuphead/movie-static/download-output-image/index.e9129.js"></script>
+</div>]]
