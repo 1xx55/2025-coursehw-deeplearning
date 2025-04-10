@@ -75,7 +75,7 @@ if __name__ == "__main__":
     
     file_name = input("输入要打开的文件名:(回车则默认为合肥.txt)").strip()
     if len(file_name) == 0:
-        file_name = "exp2/合肥.txt"
+        file_name = "合肥.txt"
 
     with open(file_name,"r",encoding='utf-8') as f:
         data = f.read()
